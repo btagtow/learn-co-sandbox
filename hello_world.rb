@@ -1,0 +1,1 @@
+reduce(0) do |memo, e| [1,2,3,4]
